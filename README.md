@@ -88,11 +88,6 @@ O resto dos meus repositórios públicos aqui são coisas menores de faculdade (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patrickzets&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickzets&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickzets&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+</div
